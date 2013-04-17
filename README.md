@@ -1,16 +1,16 @@
 Ideas
 =====
 
-Storing incoming ideas!
+Storing incoming ideas! Most of them are skill builders, but one never knows.
 
 
 ##Web app
-1. Rest API Console
+1. Rest API Console - Console for testing different web API
 2. Social Mashup - a clash between FB and twitter
 
 
 ## API
-1. Java bitly client
+1. Java bitly client - wrapper for the bitly api
 
 ## Plug in
 1. Eclipse JUnit test suite generation
