@@ -7,6 +7,7 @@ Storing incoming ideas! Most of them are skill builders, but one never knows.
 ##Web app
 1. Rest API Console - Console for testing different web API
 2. Social Mashup - a clash between FB and twitter
+3. Idea Store - Gather ideas accross users and store them
 
 
 ## API
