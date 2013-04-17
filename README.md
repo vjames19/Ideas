@@ -20,3 +20,4 @@ Storing incoming ideas! Most of them are skill builders, but one never knows.
 ## Plug in
 1. Eclipse JUnit test suite generation
 2. JBoss Forge JUnit test generation
+3. Forge GWT Project generation
