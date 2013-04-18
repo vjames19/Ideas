@@ -27,7 +27,7 @@ Storing incoming ideas! Most of them are skill builders, but one never knows.
 4. Spotify App for generating playlist intended to change you mood. (i.e your curent mood is sad and you want cheer up)
 
 ##Android Applications
-1. FloorMessages -  A application that utilizes the GPS of the device to allow users to leave a message in their current location for other users with the application. The application must be places in scan mode to collec notes left by other users. Could work with bluetooth too.
+1. FloorMessages -  A application that utilizes the GPS of the device to allow users to leave a message in their current location for other users with the application. The application must be places in scan mode to collect notes left by other users. Could work with bluetooth too. Can have a note finding mode that gives users dirrection to all notes near user.
 2. RolePlay - A android game that is played in the real world you and your friends start the application and connect to a loby where each player receives a role and a scenerio is given to all they players must act out their action as they receive instructions. (i.e. players receive a murder mistery where one of the player is the assasin, the assasin is given orders to separe one of the players so he may officially kill him other players are given other scenarios to act out, or hints in case of the victim) Work even greater with social integration, the application itself would market itself through facebook. Should gps and internet for added fun . 
 
 ##Desktop Applications
