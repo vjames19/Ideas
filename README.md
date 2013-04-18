@@ -3,15 +3,14 @@ Ideas
 
 Storing incoming ideas! Most of them are skill builders, but one never knows.
 
-##Api Database
-1. A web application with a list of all API, Header, Files, Packages... 
-2. users can add apis and add descriptions, 
-2. users can add comments or examples of a API's usage
 
 ##Web app
 1. Rest API Console - Console for testing different web API
 2. Social Mashup - a clash between FB and twitter
 3. Idea Store - Gather ideas accross users and store them
+4. Api Database - a database of all APIs, Header Files, Packages... for any language.
+5. Indie Records- a social media with tools tohelp indie bands get information on gigs, find new members, ect...
+6.  
 
 
 ## API
@@ -20,4 +19,14 @@ Storing incoming ideas! Most of them are skill builders, but one never knows.
 ## Plug in
 1. Eclipse JUnit test suite generation
 2. JBoss Forge JUnit test generation
-3. Forge GWT Project generation
+3. GWT project generator- 
+4. Spotify App for generating playlist intended to change you mood. (i.e your curent mood is sad and you want cheer up)
+
+
+##Web App: Api Database
+1. Has a database of all APIs, Header Files, Packages... for any language.
+2. Users can add apis and add descriptions. 
+3. Users can add comments or examples of a API's usage.
+4. Helps users get started on any software project, on any language, by presenting the user with already existing 
+software applications. (i.e. Android Application, WebApplication,...) It gives the user all the tools that exist 
+for the development of such application.   
