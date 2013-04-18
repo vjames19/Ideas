@@ -8,8 +8,8 @@ Storing incoming ideas! Most of them are skill builders, but one never knows.
 1. Rest API Console - Console for testing different web API
 2. Social Mashup - a clash between FB and twitter
 3. Idea Store - Gather ideas accross users and store them
-4. Api Database - a database of all APIs, Header Files, Packages... for any language.
-5. Indie Records- a social media with tools tohelp indie bands get information on gigs, find new members, ect...
+4. Api Database - a database of all APIs, Header Files, Packages... for any language. Already exists. - http://www.programmableweb.com/
+5. Indie Records- a social media with tools to help indie bands get information on gigs, find new members, ect...
 6. CourseGradeBook - Tool for a professor, to log attendance, supply materials, and keep a gradebook where students can see their grades.
 
 
