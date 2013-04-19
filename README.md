@@ -1,3 +1,5 @@
+Copyright 2013 Victor J. Reventos
+
 Ideas
 =====
 
