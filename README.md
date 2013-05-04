@@ -11,7 +11,7 @@ Storing incoming ideas! Most of them are skill builders, but one never knows.
 2. Social Mashup - a clash between FB and twitter
 3. Idea Store - Gather ideas accross users and store them
 4. Api Database - a database of all APIs, Header Files, Packages... for any language. Already exists. - http://www.programmableweb.com/ - Antonio Tapia 
-5. Indie Records- a social media with tools to help indie bands get information on gigs, find new members, ect... by Antonio Tapia 
+5. Indie Records- a social media with tools to help indie bands get information on gigs, find new members, ect... - Antonio Tapia 
 6. CourseGradeBook - Tool for a professor, to log attendance, supply materials, and keep a gradebook where students can see their grades.
 7. TheUniversityCollectiveCollection - A tool for Uprm students to share projects, homeworks, notes, profesor reviews ... think of reddit for university projects, homeworks, notes,... - Antonio Tapia 
 9. Policitizen - The project i did for the databases course it consisted on a license plate reporting system to raize awareness of bad driving behaviors - Antonio Tapia 
@@ -34,3 +34,4 @@ Storing incoming ideas! Most of them are skill builders, but one never knows.
 
 ##Desktop Applications
 1. Social Integrator - A "smart" application that optimizes the ways that people utilize social media, It is an interface for your social media. It is best suited as a desktop application because it can be better optimized than a web application. this applications will try to learn from user habbits and in a smart way allow block unwanted distractions(time wasters) coming from social media . Source of idea: http://cdblog.centraldesktop.com/2012/09/eight-scary-stats-about-your-email-habits/ 
+2. Video Game - A hardcore game with Touch controls for Windows 8 I think that windows 8 has set up the stage for more computing intensive video games. - Antonio
