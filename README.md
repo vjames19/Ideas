@@ -35,3 +35,7 @@ Storing incoming ideas! Most of them are skill builders, but one never knows.
 ##Desktop Applications
 1. Social Integrator - A "smart" application that optimizes the ways that people utilize social media, It is an interface for your social media. It is best suited as a desktop application because it can be better optimized than a web application. this applications will try to learn from user habbits and in a smart way allow block unwanted distractions(time wasters) coming from social media . Source of idea: http://cdblog.centraldesktop.com/2012/09/eight-scary-stats-about-your-email-habits/ 
 2. 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vjames19/ideas/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
